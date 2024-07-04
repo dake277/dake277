@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width: 100%" center='align'>
-  <img alt="GIF" align= "middle" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="400"/>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="400"/>
 </div>
  
 
